@@ -13,7 +13,7 @@ function Hero() {
   return (
     <section id="inicio" className="hero">
     <div className="contenedor hero-inner">
-      <h1>Convierto ideas en productos de software listos para escalar</h1>
+      <h1>Soy un desarrollador full-stack.</h1>
       <p className="hero-subtitulo">
         Consultoría en arquitectura cloud, transformación digital y mentoría
         técnica para equipos que quieren construir mejor y más rápido.
